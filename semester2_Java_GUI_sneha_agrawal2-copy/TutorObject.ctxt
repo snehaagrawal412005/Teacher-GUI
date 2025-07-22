@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TutorObject
+comment1.params=teacherId\ teacherName\ address\ workingType\ employmentStatus\ workingHours\ salary\ specialization\ academicQualification\ performanceIndex
+comment1.target=TutorObject(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=Salary\ performancIndex
+comment2.target=void\ setSalary(double,\ int)
+comment3.params=
+comment3.target=void\ removeTutor()
+comment4.params=
+comment4.target=void\ display()
+numComments=5
